@@ -12,11 +12,6 @@ To run it, you can use a terminal, such as Termux, CMD, or other terminals. Linu
 pkg install git -y
 pkg install python -y
 git clone https://github.com/CyraxmodDOne/Tool-Share-Facebook-Max-Speed-
-## tampilan
-<p><img src="img/Screenshot_20220210-041041_Pydroid 3.jpg" /></p>
-
-## hasil / result
-<p><img src="img/Screenshot_20220210-041053_Lite.jpg" /></p>
 
 # credit
 Copyright © 2025 - All Latip176.
